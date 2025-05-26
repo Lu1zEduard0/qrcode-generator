@@ -46,6 +46,11 @@ Acesse `http://localhost:3000` no seu navegador para ver o gerador de QR Code em
 
 ---
 
+4. Prints
+
+![Print 1](https://github.com/Lu1zEduard0/qrcode-generator/blob/main/print/captura_1.png)
+![Print 2](https://github.com/Lu1zEduard0/qrcode-generator/blob/main/print/captura_2.png)
+
 ## 📝 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
